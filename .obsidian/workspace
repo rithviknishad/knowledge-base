@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "turborepo/TURBOREPO.md.md",
+            "file": "TURBOREPO/Getting Started.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "turborepo/TURBOREPO.md.md",
+            "file": "TURBOREPO/Getting Started.md",
             "mode": "preview",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "turborepo/TURBOREPO.md.md",
+                "file": "TURBOREPO/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "turborepo/TURBOREPO.md.md",
+                "file": "TURBOREPO/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "turborepo/TURBOREPO.md.md"
+                "file": "TURBOREPO/Getting Started.md"
               }
             }
           }
@@ -140,8 +140,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4a1755e146d6e7a",
+  "active": "c5257c461ce3e47d",
   "lastOpenFiles": [
-    "README.md.md"
+    "README.md",
+    "TURBOREPO/Getting Started.md"
   ]
 }
