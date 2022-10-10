@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "1784d3927febbe6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5257c461ce3e47d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "turborepo/TURBOREPO.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f4a1755e146d6e7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "turborepo/TURBOREPO.md.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72f26cb35bea01c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6088060e98894f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b72961f8a64b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "570d77ae7a9890bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d42de3818b8f7f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "258cc4067a118077",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2b81a81de056fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5ec971eec1bb23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "turborepo/TURBOREPO.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "898566f4acba5483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "turborepo/TURBOREPO.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "676e48191b830071",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9078b9007291bede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "turborepo/TURBOREPO.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4a1755e146d6e7a",
+  "lastOpenFiles": [
+    "README.md.md"
+  ]
+}
