@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elixir/Building scramjet for vaidyuti.md",
+            "file": "Vaidyuti Docs/Dev Credentials.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elixir/Building scramjet for vaidyuti.md",
+                "file": "Vaidyuti Docs/Dev Credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elixir/Building scramjet for vaidyuti.md",
+                "file": "Vaidyuti Docs/Dev Credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elixir/Building scramjet for vaidyuti.md"
+                "file": "Vaidyuti Docs/Dev Credentials.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   "active": "c5257c461ce3e47d",
   "lastOpenFiles": [
     "Untitled.md",
+    "Vaidyuti Docs/Scramjet/Building Scramjet.js.md",
+    "Elixir/Building scramjet for vaidyuti.md",
     "Bun (JS Runtime)/Getting Started.md",
     "TURBOREPO/Getting Started.md",
     "README.md"

@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabJsSquare",
+      "FabErlang",
+      "FasJetFighter",
+      "RiLightbulbFlashLine",
+      "FasBoltLightning"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Vaidyuti Docs/Dev Credentials.md": "FasKey",
+  "Vaidyuti Docs": "RiLightbulbFlashLine",
+  "Vaidyuti Docs/Scramjet": "FasJetFighter",
+  "TURBOREPO": "RiGitRepositoryCommitsFill",
+  "Elixir": "FabErlang",
+  "Bun (JS Runtime)": "FabJsSquare"
+}
