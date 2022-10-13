@@ -1,7 +1,7 @@
 {
-  "commitMessage": "📖 Vault Backup on `{{hostname}}` at {{date}} 🚀",
-  "autoCommitMessage": "📖 Vault Backup on `{{hostname}}` at {{date}} 🚀",
-  "commitDateFormat": "HH:mm MMMM D, YYYY",
+  "commitMessage": "📖 Vault Backup from `{{hostname}}` on {{date}} 🚀",
+  "autoCommitMessage": "📖 Vault Backup from `{{hostname}}` on {{date}} 🚀",
+  "commitDateFormat": "MMMM D, YYYY HH:mm ",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
   "autoPullInterval": 5,
