@@ -9,20 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TURBOREPO/Getting Started.md",
+            "file": "Bun (JS Runtime)/Getting Started.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f4a1755e146d6e7a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TURBOREPO/Getting Started.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TURBOREPO/Getting Started.md",
+                "file": "Bun (JS Runtime)/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TURBOREPO/Getting Started.md",
+                "file": "Bun (JS Runtime)/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TURBOREPO/Getting Started.md"
+                "file": "Bun (JS Runtime)/Getting Started.md"
               }
             }
           }
@@ -142,7 +130,7 @@
   },
   "active": "c5257c461ce3e47d",
   "lastOpenFiles": [
-    "README.md",
-    "TURBOREPO/Getting Started.md"
+    "TURBOREPO/Getting Started.md",
+    "README.md"
   ]
 }
