@@ -20,8 +20,12 @@ bun init # enter project details
 > [!INFO] 
 > bun init does not initialize a git repository
 
-#### 3. Adding packages
+#### 3. Add packages
 ```bash
 bun add <package>
 ```
 
+#### 4. Run your code
+```bash
+bun run index.ts
+```
