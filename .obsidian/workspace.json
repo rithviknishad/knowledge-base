@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1784d3927febbe6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8bcbb6622f74f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5257c461ce3e47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaidyuti Docs/Dev Credentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce535f22bcca62fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72f26cb35bea01c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6088060e98894f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b72961f8a64b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "570d77ae7a9890bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d42de3818b8f7f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "258cc4067a118077",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2b81a81de056fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5ec971eec1bb23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vaidyuti Docs/Dev Credentials.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "898566f4acba5483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vaidyuti Docs/Dev Credentials.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "676e48191b830071",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9078b9007291bede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vaidyuti Docs/Dev Credentials.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ce535f22bcca62fb",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Vaidyuti Docs/Scramjet/Building Scramjet.js.md",
+    "Elixir/Building scramjet for vaidyuti.md",
+    "Bun (JS Runtime)/Getting Started.md",
+    "TURBOREPO/Getting Started.md",
+    "README.md"
+  ]
+}
