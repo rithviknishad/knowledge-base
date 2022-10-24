@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbGames",
       "FabJsSquare",
       "FabErlang",
       "FasJetFighter",
-      "RiLightbulbFlashLine",
-      "FasBoltLightning"
+      "RiLightbulbFlashLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,6 @@
   "Vaidyuti Docs/Scramjet": "FasJetFighter",
   "TURBOREPO": "RiGitRepositoryCommitsFill",
   "Elixir": "FabErlang",
-  "Bun (JS Runtime)": "FabJsSquare"
+  "Bun (JS Runtime)": "FabJsSquare",
+  "Quoridor": "IbGames"
 }
