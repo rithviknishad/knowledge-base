@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHandHoldingDollar",
       "IbGames",
       "FabJsSquare",
       "FabErlang",
-      "FasJetFighter",
-      "RiLightbulbFlashLine"
+      "FasJetFighter"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "TURBOREPO": "RiGitRepositoryCommitsFill",
   "Elixir": "FabErlang",
   "Bun (JS Runtime)": "FabJsSquare",
-  "Quoridor": "IbGames"
+  "Quoridor": "IbGames",
+  "Finance": "FasHandHoldingDollar"
 }

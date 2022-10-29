@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15ed754ebdd5c5e1",
+            "id": "994470d966134deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quoridor/Design Document.md",
+                "file": "Finance/Seven Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "258cc4067a118077",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quoridor/Design Document.md",
+                "file": "Finance/Seven Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quoridor/Design Document.md",
+                "file": "Finance/Seven Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quoridor/Design Document.md"
+                "file": "Finance/Seven Points.md"
               }
             }
           }
@@ -136,18 +136,15 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "15ed754ebdd5c5e1",
+  "active": "994470d966134deb",
   "lastOpenFiles": [
-    "Bun (JS Runtime)/Getting Started.md",
-    "Elixir/Building scramjet for vaidyuti.md",
     "Quoridor/Design Document.md",
+    "README.md",
+    "Elixir/Building scramjet for vaidyuti.md",
+    "Bun (JS Runtime)/Getting Started.md",
     "Vaidyuti Docs/Dev Credentials.md",
     "Untitled.md",
     "Vaidyuti Docs/Scramjet/Building Scramjet.js.md",
-    "TURBOREPO/Getting Started.md",
-    "README.md"
+    "TURBOREPO/Getting Started.md"
   ]
 }
