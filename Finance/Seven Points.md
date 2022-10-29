@@ -1,6 +1,0 @@
-- Make money through WiFi
-	- Every 20s should make money through wifi as multiple sources of income.
-	- Easiest and necessary way.
-	- Compounding and scale is easy with WiFi.
-	- Learning making money through wifi is improving personallity.
-- 
