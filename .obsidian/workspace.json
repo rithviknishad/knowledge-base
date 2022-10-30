@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b82f0f55ee03c8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Money Making Secrets.md",
+                "file": "Docker/Docker Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/Money Making Secrets.md",
+                "file": "Docker/Docker Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/Money Making Secrets.md"
+                "file": "Docker/Docker Networking.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "994470d966134deb",
+  "active": "b82f0f55ee03c8ff",
   "lastOpenFiles": [
-    "TURBOREPO/Getting Started.md",
     "Finance/Money Making Secrets.md",
+    "TURBOREPO/Getting Started.md",
     "Quoridor/Design Document.md",
     "README.md",
     "Elixir/Building scramjet for vaidyuti.md",

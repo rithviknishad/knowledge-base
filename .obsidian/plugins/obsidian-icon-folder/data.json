@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasNetworkWired",
+      "FabDocker",
       "FasHandHoldingDollar",
       "IbGames",
-      "FabJsSquare",
-      "FabErlang",
-      "FasJetFighter"
+      "FabJsSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,7 @@
   "Elixir": "FabErlang",
   "Bun (JS Runtime)": "FabJsSquare",
   "Quoridor": "IbGames",
-  "Finance": "FasHandHoldingDollar"
+  "Finance": "FasHandHoldingDollar",
+  "Docker": "FabDocker",
+  "Docker/Docker Networking.md": "FasNetworkWired"
 }
