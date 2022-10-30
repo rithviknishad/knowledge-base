@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "258cc4067a118077",
@@ -161,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eddcd5cbcdd515ef",
+  "active": "a6b72961f8a64b7b",
   "lastOpenFiles": [
     "Docker/Docker Networking.md",
     "Finance/Money Making Secrets.md",
