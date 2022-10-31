@@ -162,9 +162,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6b72961f8a64b7b",
+  "active": "eddcd5cbcdd515ef",
   "lastOpenFiles": [
     "Docker/Docker Networking.md",
+    "CodePlex BE.md",
     "Finance/Money Making Secrets.md",
     "TURBOREPO/Getting Started.md",
     "Quoridor/Design Document.md",
@@ -172,7 +173,6 @@
     "Elixir/Building scramjet for vaidyuti.md",
     "Bun (JS Runtime)/Getting Started.md",
     "Vaidyuti Docs/Dev Credentials.md",
-    "CodePlex BE.md",
     "Vaidyuti Docs/Scramjet/Building Scramjet.js.md"
   ]
 }
