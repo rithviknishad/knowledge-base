@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodePlex BE.md",
+                "file": "Vaidyuti Docs/Project Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "258cc4067a118077",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodePlex BE.md",
+                "file": "Vaidyuti Docs/Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodePlex BE.md",
+                "file": "Vaidyuti Docs/Project Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodePlex BE.md"
+                "file": "Vaidyuti Docs/Project Plan.md"
               }
             }
           }
@@ -164,8 +163,8 @@
   },
   "active": "eddcd5cbcdd515ef",
   "lastOpenFiles": [
-    "Docker/Docker Networking.md",
     "CodePlex BE.md",
+    "Docker/Docker Networking.md",
     "Finance/Money Making Secrets.md",
     "TURBOREPO/Getting Started.md",
     "Quoridor/Design Document.md",
