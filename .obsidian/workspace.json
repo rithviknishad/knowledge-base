@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vaidyuti Docs/Project Plan.md",
+                "file": "TURBOREPO/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaidyuti Docs/Project Plan.md",
+                "file": "TURBOREPO/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vaidyuti Docs/Project Plan.md",
+                "file": "TURBOREPO/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vaidyuti Docs/Project Plan.md"
+                "file": "TURBOREPO/Getting Started.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "eddcd5cbcdd515ef",
   "lastOpenFiles": [
+    "Vaidyuti Docs/Project Plan.md",
     "CodePlex BE.md",
     "Docker/Docker Networking.md",
     "Finance/Money Making Secrets.md",
@@ -171,7 +172,6 @@
     "README.md",
     "Elixir/Building scramjet for vaidyuti.md",
     "Bun (JS Runtime)/Getting Started.md",
-    "Vaidyuti Docs/Dev Credentials.md",
-    "Vaidyuti Docs/Scramjet/Building Scramjet.js.md"
+    "Vaidyuti Docs/Dev Credentials.md"
   ]
 }
